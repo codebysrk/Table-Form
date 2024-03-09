@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Table-Form/static/css/main.d5289b2f.css",
+    "main.js": "/Table-Form/static/js/main.ca312345.js",
+    "index.html": "/Table-Form/index.html",
+    "main.d5289b2f.css.map": "/Table-Form/static/css/main.d5289b2f.css.map",
+    "main.ca312345.js.map": "/Table-Form/static/js/main.ca312345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.ca312345.js"
+  ]
+}
